@@ -1,24 +1,46 @@
 [
   {
+    "type": "movie",
     "id": "hp1",
     "dir": "hp1",
     "files": ["cover.jpg"],
     "aliases": [
       "harry potter 1",
       "hp 1",
+      "hp1",
       "harry potter y la piedra filosofal",
       "harry potter and the philosopher's stone"
     ]
   },
   {
+    "type": "movie",
     "id": "hp2",
     "dir": "hp2",
     "files": ["cover.jpg"],
     "aliases": [
       "harry potter 2",
       "hp 2",
+      "hp2",
       "harry potter y la camara secreta",
       "harry potter and the chamber of secrets"
     ]
+  },
+  {
+    "type": "series",
+    "id": "bb",
+    "dir": "breaking-bad",
+    "files": ["cover.jpg"],
+    "aliases": ["breaking bad", "bb"],
+    "seasons": {
+      "1": {
+        "files": ["cover.jpg"],
+        "aliases": ["temporada 1", "season 1", "s1", "t1", "s01"]
+      },
+      "2": {
+        "files": ["cover.jpg"],
+        "aliases": ["temporada 2", "season 2", "s2", "t2", "s02"]
+      }
+    }
   }
 ]
+
