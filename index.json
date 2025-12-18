@@ -1,0 +1,24 @@
+[
+  {
+    "id": "hp1",
+    "dir": "hp1",
+    "files": ["cover.jpg"],
+    "aliases": [
+      "harry potter 1",
+      "hp 1",
+      "harry potter y la piedra filosofal",
+      "harry potter and the philosopher's stone"
+    ]
+  },
+  {
+    "id": "hp2",
+    "dir": "hp2",
+    "files": ["cover.jpg"],
+    "aliases": [
+      "harry potter 2",
+      "hp 2",
+      "harry potter y la camara secreta",
+      "harry potter and the chamber of secrets"
+    ]
+  }
+]
