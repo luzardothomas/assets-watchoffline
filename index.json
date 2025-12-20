@@ -25,32 +25,49 @@
       "harry potter and the chamber of secrets"
     ]
   },
-  {
-    "type": "series",
-    "id": "bb",
-    "dir": "breaking-bad",
-    "files": ["cover.jpg"],
-    "aliases": ["breaking bad", "bb"],
-    "seasons": {
-      "1": {
-        "files": ["cover.jpg"],
-        "aliases": ["temporada 1", "season 1", "s1", "t1", "s01"],
-        "chapter": {
-          "1": { "skipToSecond": 60 },
-          "2": { "skipToSecond": 58 },
-          "3": { "skipToSecond": 55 },
-        }
+{
+  "type": "series",
+  "id": "bb",
+  "dir": "breaking-bad",
+  "files": ["cover.jpg"],
+  "aliases": ["breaking bad", "bb"],
+
+  "intro": {
+    "unit": "seconds",
+    "defaultSkip": 0
+  },
+
+  "seasons": {
+    "1": {
+      "files": ["cover.jpg"],
+      "aliases": ["temporada 1", "season 1", "s1", "t1", "s01"],
+
+      "intro": {
+        "defaultSkip": 55
       },
-      "2": {
-        "files": ["cover.jpg"],
-        "aliases": ["temporada 2", "season 2", "s2", "t2", "s02"],
-          "chapter": {
-          "1": { "skipToSecond": 120 },
-          "2": { "skipToSecond": 119 },
-          "3": { "skipToSecond": 110 },
-        }
+
+      "episodes": {
+        "1": { "skipToSecond": 60 },
+        "2": { "skipToSecond": 58 },
+        "3": { "skipToSecond": 55 }
+      }
+    },
+
+    "2": {
+      "files": ["cover.jpg"],
+      "aliases": ["temporada 2", "season 2", "s2", "t2", "s02"],
+
+      "intro": {
+        "defaultSkip": 110
+      },
+
+      "episodes": {
+        "1": { "skipToSecond": 120 },
+        "2": { "skipToSecond": 119 },
+        "3": { "skipToSecond": 110 }
       }
     }
   }
+}
 ]
 
