@@ -1,7 +1,7 @@
 [
   {
     "type": "movie",
-    "id": "hp1",
+    "id": "Harry Potter y la piedra filosofal",
     "dir": "hp1",
     "files": ["cover.jpg"],
     "aliases": [
@@ -14,7 +14,7 @@
   },
   {
     "type": "movie",
-    "id": "hp2",
+    "id": "Harry Potter y la camara de los secretos",
     "dir": "hp2",
     "files": ["cover.jpg"],
     "aliases": [
@@ -27,7 +27,7 @@
   },
 {
   "type": "series",
-  "id": "bb",
+  "id": "Breaking Bad",
   "dir": "breaking-bad",
   "files": ["cover.jpg"],
   "aliases": ["breaking bad", "bb"],
