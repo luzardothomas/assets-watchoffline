@@ -1,65 +1,49 @@
-[
-  {
-    "type": "movie",
-    "id": "Harry Potter y la piedra filosofal",
-    "dir": "hp1",
-    "files": ["cover.jpg"],
-    "aliases": [
-      "harry potter 1",
-      "hp 1",
-      "hp1",
-      "harry potter y la piedra filosofal",
-      "harry potter and the philosopher's stone"
-    ]
+{
+  "config": {
+    "series": {
+      "seasonDirTemplate": "s{season:02}",
+      "seasonCoverFile": "cover.jpg",
+      "defaultSeasonIfMissing": 1
+    },
+    "notFound": {
+      "path": "no_encontrada/cover.jpg"
+    }
   },
-  {
-    "type": "movie",
-    "id": "Harry Potter y la camara de los secretos",
-    "dir": "hp2",
-    "files": ["cover.jpg"],
-    "aliases": [
+  "items": [
+    {
+      "type": "movie",
+      "id": "Harry potter y la piedra filosofal",
+      "dir": "hp1",
+      "files": ["cover.jpg"],
+      "aliases": ["harry potter 1","hp 1",
+      						"hp1","harry potter y la piedra filosofal",
+      						"harry potter and the philosopher's stone"
+    						 ]
+    },
+    {
+      "type": "movie",
+      "id": "Harry y la camara secreta",
+      "dir": "hp2",
+      "files": ["cover.jpg"],
+      "aliases": [
       "harry potter 2",
       "hp 2",
       "hp2",
       "harry potter y la camara secreta",
       "harry potter and the chamber of secrets"
     ]
-  },
-{
-  "type": "series",
-  "id": "Breaking Bad",
-  "dir": "breaking-bad",
-  "files": ["cover.jpg"],
-  "aliases": ["breaking bad", "bb"],
-
-  "intro": {
-    "unit": "seconds",
-    "defaultSkip": 0
-  },
-
-  "seasons": {
-    "1": {
-      "files": ["cover.jpg"],
-      "aliases": ["temporada 1", "season 1", "s1", "t1", "s01"],
-
-      "episodes": {
-        "1": { "skipToSecond": 60 },
-        "2": { "skipToSecond": 58 },
-        "3": { "skipToSecond": 55 }
-      }
     },
-
-    "2": {
+    {
+      "type": "series",
+      "id": "bb",
+      "dir": "breaking-bad",
       "files": ["cover.jpg"],
-      "aliases": ["temporada 2", "season 2", "s2", "t2", "s02"],
-
-      "episodes": {
-        "1": { "skipToSecond": 120 },
-        "2": { "skipToSecond": 119 },
-        "3": { "skipToSecond": 110 }
+      "aliases": ["breaking bad", "bb"],
+      "episodeSkips": {
+        "1": { "1": 60, "2": 58, "3": 55 },
+        "2": { "1": 120, "2": 119, "3": 110 }
       }
     }
-  }
+  ]
 }
-]
 
