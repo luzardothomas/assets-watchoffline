@@ -35,12 +35,20 @@
       "1": {
         "files": ["cover.jpg"],
         "aliases": ["temporada 1", "season 1", "s1", "t1", "s01"],
-        "skipToSecond": 60
+        "chapter": {
+          "1": { "skipToSecond": 60 },
+          "2": { "skipToSecond": 58 },
+          "3": { "skipToSecond": 55 },
+        }
       },
       "2": {
         "files": ["cover.jpg"],
         "aliases": ["temporada 2", "season 2", "s2", "t2", "s02"],
-        "skipToSecond": 60
+          "chapter": {
+          "1": { "skipToSecond": 120 },
+          "2": { "skipToSecond": 119 },
+          "3": { "skipToSecond": 110 },
+        }
       }
     }
   }
