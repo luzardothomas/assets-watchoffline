@@ -13,7 +13,7 @@
     {
       "type": "movie",
       "id": "Chainsaw Man la película - Arco de Reze (2025)",
-      "dir": "Chainsaw Man la película -Arco de Reze (2025)",
+      "dir": "chainsawman_arco_reze_2025",
       "aliases": [
         "chainsaw man reze",
         "chainsawman reze",
@@ -25,8 +25,8 @@
 
     {
       "type": "series",
-      "id": "Dragon Ball GT",
-      "dir": "DB_GT",
+      "id": "db_gt_t1",
+      "dir": "db_gt",
       "aliases": ["db_gt", "db gt", "dragon ball gt", "dbgt"],
       "seasonEpisodeCounts": [64],
       "episodeSkips": { "1": {"1": 60, "2": 60, "3": 60, "4": 60, "5": 60, "6": 60, "7": 60, "8": 60, "9": 60, "10": 60,
@@ -40,14 +40,14 @@
     {
       "type": "movie",
       "id": "Dragon Ball GT - Película",
-      "dir": "DB_GT/PELICULA",
+      "dir": "db_gt",
       "aliases": ["dbgt pelicula", "dragon ball gt pelicula", "db gt pelicula"]
     },
 
     {
   "type": "series",
   "id": "Dragon Ball Z",
-  "dir": "DBZ",
+  "dir": "dbz",
   "aliases": ["dbz", "dragon ball z"],
   "seasonEpisodeCounts": [38, 36, 33, 10, 22, 60, 20, 34, 38],
   "episodeSkips": {
@@ -107,26 +107,26 @@
     {
       "type": "movie",
       "id": "Deadpool 1",
-      "dir": "DEADPOOL/deadpool1",
+      "dir": "deadpool1",
       "aliases": ["deadpool", "deadpool 1", "deadpool1"]
     },
     {
       "type": "movie",
       "id": "Deadpool 2",
-      "dir": "DEADPOOL/deadpool2",
+      "dir": "deadpool2",
       "aliases": ["deadpool 2", "deadpool2"]
     },
     {
       "type": "movie",
       "id": "Deadpool 3",
-      "dir": "DEADPOOL/deadpool3",
+      "dir": "deadpool3",
       "aliases": ["deadpool 3", "deadpool3"]
     },
 
     {
       "type": "series",
       "id": "Death Note",
-      "dir": "DEATH_NOTE",
+      "dir": "death_note",
       "aliases": ["death note", "desu noto"],
       "seasonEpisodeCounts": [37],
       "episodeSkips": { "1": {} }
@@ -135,7 +135,7 @@
     {
       "type": "series",
       "id": "Di Maria",
-      "dir": "DI_MARIA",
+      "dir": "di_maria",
       "aliases": ["di maria", "angel di maria"],
       "seasonEpisodeCounts": [3],
       "episodeSkips": { "1": {} }
@@ -144,20 +144,26 @@
     {
       "type": "movie",
       "id": "Dragon Ball - OVAs",
-      "dir": "DRAGON_BALL_PELIS/OVAS",
-      "aliases": ["dragon ball ovas", "db ovas", "ovas dragon ball"]
+      "dir": "dbz_ova_1",
+      "aliases": ["dragon ball ova 1", "db ova 1", "ova dragon ball 1"]
     },
     {
       "type": "movie",
       "id": "Dragon Ball - Películas",
-      "dir": "DRAGON_BALL_PELIS/PELICULAS",
-      "aliases": ["dragon ball peliculas", "db peliculas", "peliculas dragon ball"]
+      "dir": "dbz_ova_2",
+      "aliases": ["dragon ball ova 2", "db ova 2", "ova dragon ball 2"]
+    },
+    {
+      "type": "movie",
+      "id": "Dragon Ball - Películas",
+      "dir": "dbz_ova_3",
+      "aliases": ["dragon ball ova 3", "db ova 3", "ova dragon ball 3"]
     },
 
     {
       "type": "series",
       "id": "El Eternauta",
-      "dir": "EL_ETERNAUTA",
+      "dir": "el_eternauta_t1",
       "aliases": ["el eternauta", "eternauta"],
       "seasonEpisodeCounts": [6],
       "episodeSkips": { "1": {} }
@@ -166,77 +172,77 @@
     {
       "type": "movie",
       "id": "Elvis (2022)",
-      "dir": "ELVIS_2022",
+      "dir": "elvis_2022",
       "aliases": ["elvis", "elvis 2022"]
     },
 
     {
       "type": "movie",
       "id": "Harry Potter 1",
-      "dir": "HARRY POTTER",
+      "dir": "hp1",
       "aliases": ["hp1", "harry potter 1", "harry potter y la piedra filosofal"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 2",
-      "dir": "HARRY POTTER",
+      "dir": "hp2",
       "aliases": ["hp2", "harry potter 2", "camara secreta", "cámara secreta"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 3",
-      "dir": "HARRY POTTER",
+      "dir": "hp3,
       "aliases": ["hp3", "harry potter 3", "prisionero de azkaban", "prisionero de azkaban"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 4",
-      "dir": "HARRY POTTER",
+      "dir": "hp4",
       "aliases": ["hp4", "harry potter 4", "caliz de fuego", "cáliz de fuego"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 5",
-      "dir": "HARRY POTTER",
+      "dir": "hp5",
       "aliases": ["hp5", "harry potter 5", "orden del fenix", "orden del fénix"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 6",
-      "dir": "HARRY POTTER",
+      "dir": "hp6",
       "aliases": ["hp6", "harry potter 6", "misterio del principe", "misterio del príncipe"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 7",
-      "dir": "HARRY POTTER",
+      "dir": "hp7",
       "aliases": ["hp7", "harry potter 7", "reliquias de la muerte 1", "reliquias 1"]
     },
     {
       "type": "movie",
       "id": "Harry Potter 8",
-      "dir": "HARRY POTTER",
+      "dir": "hp8",
       "aliases": ["hp8", "harry potter 8", "reliquias de la muerte 2", "reliquias 2"]
     },
 
     {
       "type": "movie",
       "id": "Intensamente",
-      "dir": "INTENSAMENTE",
+      "dir": "intensamente",
       "aliases": ["intensamente", "inside out"]
     },
 
     {
       "type": "movie",
       "id": "Joker 2",
-      "dir": "JOKER_2",
+      "dir": "joker_2",
       "aliases": ["joker 2", "folie a deux", "folie à deux"]
     },
 
     {
   "type": "series",
   "id": "Malcolm",
-  "dir": "MALCOLM",
+  "dir": "malcolm",
   "aliases": ["malcolm", "malcom", "malcolm in the middle"],
   "seasonEpisodeCounts": [16, 25, 22, 22, 22, 22, 22],
   "episodeSkips": {
@@ -253,7 +259,7 @@
     {
   "type": "series",
   "id": "Neon Genesis Evangelion",
-  "dir": "NEON_GENESIS_EVANGELION",
+  "dir": "neon_genesis_evangelion",
   "aliases": ["neon genesis evangelion", "evangelion", "nge"],
   "seasonEpisodeCounts": [26],
   "episodeSkips": {
@@ -268,7 +274,7 @@
 {
   "type": "series",
   "id": "Rick y Morty",
-  "dir": "Rick y Morty",
+  "dir": "rick_y_morty",
   "aliases": ["rick y morty", "rick and morty", "rick morty"],
   "seasonEpisodeCounts": [11, 10, 10, 10, 10, 10, 7],
   "episodeSkips": {
@@ -285,53 +291,53 @@
     {
       "type": "movie",
       "id": "Rocky III",
-      "dir": "ROCKY/ROCKY_III",
+      "dir": "rocky_iii",
       "aliases": ["rocky 3", "rocky iii"]
     },
     {
       "type": "movie",
       "id": "Rocky IV",
-      "dir": "ROCKY/ROCKY_IV",
+      "dir": "rocky_iv",
       "aliases": ["rocky 4", "rocky iv"]
     },
     {
       "type": "movie",
       "id": "Rocky V",
-      "dir": "ROCKY/ROCKY_V",
+      "dir": "rocky_v",
       "aliases": ["rocky 5", "rocky v"]
     },
 
     {
       "type": "movie",
       "id": "Siempre a tu lado",
-      "dir": "SIEMPRE A TU LADO",
+      "dir": "siempre_a_tu_lado",
       "aliases": ["siempre a tu lado", "hachiko", "hachi"]
     },
 
     {
       "type": "movie",
       "id": "Space Jam (1996)",
-      "dir": "SPACE-JAM-1996",
+      "dir": "space_jam",
       "aliases": ["space jam", "spacejam", "space jam 1996"]
     },
 
     {
       "type": "movie",
       "id": "Spider-Man: Across the Spider-Verse",
-      "dir": "SPIDERMAN/Spider-Man Across The Spiderverse",
+      "dir": "spiderman-across-the-spiderverse",
       "aliases": ["across the spiderverse", "spiderverse 2", "spiderman across"]
     },
     {
       "type": "movie",
       "id": "Spider-Man: Into the Spider-Verse",
-      "dir": "SPIDERMAN/Spider-Man Into The Spiderverse",
+      "dir": "spiderman-into-the-spiderverse",
       "aliases": ["into the spiderverse", "spiderverse 1", "spiderman into"]
     },
 
 {
   "type": "series",
   "id": "Spy x Family",
-  "dir": "SPY_X_FAMILY",
+  "dir": "spy_x_family",
   "aliases": ["spy x family", "spy family", "spyxfamily"],
   "seasonEpisodeCounts": [25, 12],
   "episodeSkips": {
@@ -355,7 +361,7 @@
 {
   "type": "series",
   "id": "Squid Game",
-  "dir": "SQUID_GAME",
+  "dir": "squid_game",
   "aliases": ["squid game", "el juego del calamar"],
   "seasonEpisodeCounts": [9, 7],
   "episodeSkips": {
@@ -367,33 +373,33 @@
     {
       "type": "movie",
       "id": "Star Wars II",
-      "dir": "STAR_WARS_II",
+      "dir": "star_wars_ii",
       "aliases": ["star wars 2", "episode 2", "ataque de los clones"]
     },
 
     {
       "type": "movie",
       "id": "Terrifier 1",
-      "dir": "TERRIFIER/terrifier1",
+      "dir": "terrifier1",
       "aliases": ["terrifier", "terrifier 1"]
     },
     {
       "type": "movie",
       "id": "Terrifier 2",
-      "dir": "TERRIFIER/terrifier2",
+      "dir": "terrifier2",
       "aliases": ["terrifier 2"]
     },
     {
       "type": "movie",
       "id": "Terrifier 3",
-      "dir": "TERRIFIER/terrifier3",
+      "dir": "terrifier3",
       "aliases": ["terrifier 3"]
     },
 
 {
   "type": "series",
   "id": "The Office",
-  "dir": "THE_OFFICE",
+  "dir": "the_office",
   "aliases": ["the office", "office"],
   "seasonEpisodeCounts": [6],
   "episodeSkips": {
@@ -404,67 +410,67 @@
     {
       "type": "movie",
       "id": "X-Men: First Class",
-      "dir": "X-MEN",
+      "dir": "xmen_1",
       "aliases": ["x-men first class", "xmen first class", "first class", "xmen 1"]
     },
     {
       "type": "movie",
       "id": "X-Men: Días del futuro pasado",
-      "dir": "X-MEN",
+      "dir": "xmen_2",
       "aliases": ["dias del futuro pasado", "días del futuro pasado", "future past", "xmen 2"]
     },
     {
       "type": "movie",
       "id": "X-Men: Origen",
-      "dir": "X-MEN",
+      "dir": "xmen_3",
       "aliases": ["x-men origen", "xmen origen", "wolverine origen", "xmen 3"]
     },
     {
       "type": "movie",
       "id": "X-Men: Apocalipsis",
-      "dir": "X-MEN",
+      "dir": "xmen_4",
       "aliases": ["x-men apocalipsis", "xmen apocalipsis", "apocalipsis", "xmen 4"]
     },
     {
       "type": "movie",
       "id": "X-Men: Dark Phoenix",
-      "dir": "X-MEN",
+      "dir": "xmen_5",
       "aliases": ["dark phoenix", "dark pheonix", "xmen dark phoenix", "xmen 5"]
     },
     {
       "type": "movie",
       "id": "X-Men (1)",
-      "dir": "X-MEN",
+      "dir": "xmen_6",
       "aliases": ["x-men 1", "xmen 1 original", "xmen-1", "xmen 6"]
     },
     {
       "type": "movie",
       "id": "X-Men 2",
-      "dir": "X-MEN",
+      "dir": "xmen_7",
       "aliases": ["x-men 2", "xmen 2", "xmen-2", "xmen 7"]
     },
     {
       "type": "movie",
-      "id": "X-Men 3",
+      "id": "xmen_8",
       "dir": "X-MEN",
       "aliases": ["x-men 3", "xmen 3", "xmen-3", "xmen 8"]
     },
     {
       "type": "movie",
       "id": "The Wolverine",
-      "dir": "X-MEN",
+      "dir": "xmen_9",
       "aliases": ["the wolverine", "wolverine", "xmen 9"]
     },
     {
       "type": "movie",
       "id": "The New Mutants",
-      "dir": "X-MEN",
+      "dir": "xmen_10",
       "aliases": ["the new mutants", "new mutants", "xmen 10"]
     },
     {
       "type": "movie",
       "id": "Logan",
-      "dir": "X-MEN",
+      "dir": "xmen_11",
       "aliases": ["logan", "logan wolverine", "xmen 11"]
     }
   ]
