@@ -25,7 +25,7 @@
 
     {
       "type": "series",
-      "id": "db_gt_t1",
+      "id": "db_gt",
       "dir": "db_gt",
       "aliases": ["db_gt", "db gt", "dragon ball gt", "dbgt"],
       "seasonEpisodeCounts": [64],
