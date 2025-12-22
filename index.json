@@ -526,7 +526,7 @@
     {
       "type": "movie",
       "id": "X-Men 3",
-      "dir": xmen_8",
+      "dir": "xmen_8",
       "aliases": ["x-men 3", "xmen 3", "xmen-3"]
     },
     {
