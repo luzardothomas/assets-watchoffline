@@ -144,7 +144,7 @@
 			"type": "movie",
 			"id": "Dragon Ball - Ova 1",
 			"dir": "dbz_ova_1",
-			"aliases": ["dragon ball z ova 3", "dbz ova 3", "dragon ball ova 3","dbz_ova_1","1-bardock el padre de goku"]
+			"aliases": ["dragon ball z ova 3", "dbz ova 3", "dragon ball ova 3","dbz_ova_1","1-Bardock El Padre de Goku"]
 		},
 		{
 			"type": "movie",
@@ -179,7 +179,7 @@
 				"type": "movie",
 				"id": "Dragon Ball - Pelicula 4",
 				"dir": "dbz_peli_4",
-				"aliases": ["dragon ball pelicula 4", "db pelicula 4", "pelicula dragon ball 4", "goku es un super saiayin", "dbz_peli_4"]
+				"aliases": ["dragon ball pelicula 4", "db pelicula 4", "pelicula dragon ball 4", "Goku es un Super Saiyajin", "dbz_peli_4"]
 			},
 			{
 				"type": "movie",
@@ -245,7 +245,7 @@
 		"type": "movie",
 		"id": "Dragon Ball - Pelicula 15",
 		"dir": "dbz_peli_15",
-		"aliases": ["dragon ball pelicula 15", "db pelicula 15", "pelicula dragon ball 15", "la resurreccion de freezer", "dbz_peli_15"]
+		"aliases": ["dragon ball pelicula 15", "db pelicula 15", "pelicula dragon ball 15", "La Resurrecion de Freezer", "dbz_peli_15"]
 	},
 	{
 		"type": "movie",
