@@ -235,9 +235,7 @@
 			"id": "Dragon Ball - Pelicula 17",
 			"dir": "dbz_peli_17",
 			"aliases": ["dragon ball pelicula 17", "db pelicula 17", "pelicula dragon ball 17","broly","dbz_peli_17"]
-		}
-
-
+		},
     {
       "type": "series",
       "id": "El Eternauta",
@@ -246,14 +244,12 @@
       "seasonEpisodeCounts": [6],
       "episodeSkips": { "1": {} }
     },
-
     {
       "type": "movie",
       "id": "Elvis (2022)",
       "dir": "elvis_2022",
       "aliases": ["elvis", "elvis 2022"]
     },
-
     {
       "type": "movie",
       "id": "Harry Potter 1",
