@@ -140,25 +140,103 @@
       "seasonEpisodeCounts": [3],
       "episodeSkips": { "1": {} }
     },
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 1",
+			"dir": "dbz_peli_1",
+			"aliases": ["dragon ball pelicula 1", "db pelicula 2", "pelicula dragon ball 1","devuelveme a mi gohan","dbz_peli_1"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 2",
+			"dir": "dbz_peli_3",
+			"aliases": ["dragon ball pelicula 2", "db pelicula 3", "pelicula dragon ball 2","el hombre mas fuerte de este mundo","dbz_peli_2"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 4",
+			"dir": "dbz_peli_4",
+			"aliases": ["dragon ball pelicula 4", "db pelicula 4", "pelicula dragon ball 4","la batalla mas grande de este mundo esta por comenzar","dbz_peli_4"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 5",
+			"dir": "dbz_peli_5",
+			"aliases": ["dragon ball pelicula 5", "db pelicula 5", "pelicula dragon ball 5","goku es un super saiayin","dbz_peli_5"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 6",
+			"dir": "dbz_peli_6",
+			"aliases": ["dragon ball pelicula 6", "db pelicula 6", "pelicula dragon ball 6","los rivales mas poderosos","dbz_peli_6"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 7",
+			"dir": "dbz_peli_7",
+			"aliases": ["dragon ball pelicula 7", "db pelicula 1", "pelicula dragon ball 7","los guerreros mas poderosos","dbz_peli_7"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 8",
+			"dir": "dbz_peli_8",
+			"aliases": ["dragon ball pelicula 8", "db pelicula 1", "pelicula dragon ball 8","la batalla de los tres saiayin","dbz_peli_8"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 9",
+			"dir": "dbz_peli_9",
+			"aliases": ["dragon ball pelicula 9", "db pelicula 9", "pelicula dragon ball 9","el poder invencible","dbz_peli_9"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 10",
+			"dir": "dbz_peli_10",
+			"aliases": ["dragon ball pelicula 10", "db pelicula 10", "pelicula dragon ball 10","la galaxia corre peligro","dbz_peli_10"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 11",
+			"dir": "dbz_peli_11",
+			"aliases": ["dragon ball pelicula 11", "db pelicula 11", "pelicula dragon ball 11","el regreso del guerrero legendario","dbz_peli_11"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 12",
+			"dir": "dbz_peli_12",
+			"aliases": ["dragon ball pelicula 12", "db pelicula 12", "pelicula dragon ball 12","el combate final","dbz_peli_12"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 13",
+			"dir": "dbz_peli_13",
+			"aliases": ["dragon ball pelicula 13", "db pelicula 13", "pelicula dragon ball 13","la fusion de goku y vegeta","dbz_peli_13"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 14",
+			"dir": "dbz_peli_14",
+			"aliases": ["dragon ball pelicula 14", "db pelicula 1", "pelicula dragon ball 14","el ataque del dragon","dbz_peli_14"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 15",
+			"dir": "dbz_peli_15",
+			"aliases": ["dragon ball pelicula 15", "db pelicula 1", "pelicula dragon ball 15","la batalla de los dioses","dbz_peli_15"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 16",
+			"dir": "dbz_peli_16",
+			"aliases": ["dragon ball pelicula 16", "db pelicula 1", "pelicula dragon ball 16","la resurreccion de freezer","dbz_peli_16"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Pelicula 17",
+			"dir": "dbz_peli_17",
+			"aliases": ["dragon ball pelicula 17", "db pelicula 17", "pelicula dragon ball 17","broly","dbz_peli_17"]
+		}
 
-    {
-      "type": "movie",
-      "id": "Dragon Ball - OVA 1",
-      "dir": "dbz_ova_1",
-      "aliases": ["dragon ball ova 1", "db ova 1", "ova dragon ball 1"]
-    },
-    {
-      "type": "movie",
-      "id": "Dragon Ball - OVA 2",
-      "dir": "dbz_ova_2",
-      "aliases": ["dragon ball ova 2", "db ova 2", "ova dragon ball 2"]
-    },
-    {
-      "type": "movie",
-      "id": "Dragon Ball - OVA 3",
-      "dir": "dbz_ova_3",
-      "aliases": ["dragon ball ova 3", "db ova 3", "ova dragon ball 3"]
-    },
 
     {
       "type": "series",
