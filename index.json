@@ -143,19 +143,19 @@
 
     {
       "type": "movie",
-      "id": "Dragon Ball - OVAs",
+      "id": "Dragon Ball - OVA 1",
       "dir": "dbz_ova_1",
       "aliases": ["dragon ball ova 1", "db ova 1", "ova dragon ball 1"]
     },
     {
       "type": "movie",
-      "id": "Dragon Ball - Películas",
+      "id": "Dragon Ball - OVA 2",
       "dir": "dbz_ova_2",
       "aliases": ["dragon ball ova 2", "db ova 2", "ova dragon ball 2"]
     },
     {
       "type": "movie",
-      "id": "Dragon Ball - Películas",
+      "id": "Dragon Ball - OVA 3",
       "dir": "dbz_ova_3",
       "aliases": ["dragon ball ova 3", "db ova 3", "ova dragon ball 3"]
     },
@@ -354,7 +354,7 @@
     {
       "type": "movie",
       "id": "Spy x Family - Code White (2024)",
-      "dir": "SPY_X_FAMILY/PELICULA_SPY_X_FAMILY",
+      "dir": "spy_x_family",
       "aliases": ["spy x family pelicula", "code white", "spy family code white"]
     },
 
