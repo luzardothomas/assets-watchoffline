@@ -160,6 +160,7 @@
 		},
 			{
 				"type": "movie",
+				"id": "Dragon Ball - Pelicula 1",
 				"dir": "dbz_peli_1",
 				"aliases": ["dragon ball pelicula 1", "db pelicula 1", "pelicula dragon ball 1", "devuelveme a mi gohan", "dbz_peli_1"]
 			},
