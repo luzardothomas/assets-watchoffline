@@ -140,6 +140,24 @@
       "seasonEpisodeCounts": [3],
       "episodeSkips": { "1": {} }
     },
+    {
+			"type": "movie",
+			"id": "Dragon Ball - Ova 1",
+			"dir": "dbz_ova_1",
+			"aliases": ["dragon ball z ova 3", "dbz ova 3", "dragon ball ova 3","dbz_ova_1","1-bardock el padre de goku"]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Ova 2",
+			"dir": "dbz_ova_2",
+			"aliases": ["dragon ball pelicula 2", "db pelicula 2", "pelicula dragon ball 2","dbz_ova_2","2-los dos guerreros del futuro gohan y trunks"]]
+		},
+		{
+			"type": "movie",
+			"id": "Dragon Ball - Ova 3",
+			"dir": "dbz_ova_3",
+			"aliases": ["dragon ball pelicula 3", "db pelicula 3", "pelicula dragon ball 3","dbz_ova_3","3-episodio de bardock"]]
+		},
 		{
 			"type": "movie",
 			"id": "Dragon Ball - Pelicula 1",
@@ -455,19 +473,19 @@
       "type": "movie",
       "id": "Terrifier 1",
       "dir": "terrifier1",
-      "aliases": ["terrifier", "terrifier 1"]
+      "aliases": ["terrifier", "terrifier 1","terrifier_1"]
     },
     {
       "type": "movie",
       "id": "Terrifier 2",
       "dir": "terrifier2",
-      "aliases": ["terrifier 2"]
+      "aliases": ["terrifier 2","terrifier_2"]
     },
     {
       "type": "movie",
       "id": "Terrifier 3",
       "dir": "terrifier3",
-      "aliases": ["terrifier 3"]
+      "aliases": ["terrifier 3","terrifier_3"]
     },
 
 {
@@ -491,7 +509,7 @@
       "type": "movie",
       "id": "X-Men: Días del futuro pasado",
       "dir": "xmen_2",
-      "aliases": ["dias del futuro pasado", "días del futuro pasado", "future past"]
+      "aliases": ["xmen dias del futuro pasado", "x-men dias del futuro pasado", "xmen future past","x-men future past"]
     },
     {
       "type": "movie",
