@@ -480,19 +480,19 @@
       "type": "movie",
       "id": "Terrifier 1",
       "dir": "terrifier1",
-      "aliases": ["terrifier", "terrifier 1","terrifier_1"]
+      "aliases": ["terrifier","terrifier1", "terrifier 1","terrifier_1"]
     },
     {
       "type": "movie",
       "id": "Terrifier 2",
       "dir": "terrifier2",
-      "aliases": ["terrifier 2","terrifier_2"]
+      "aliases": ["terrifier2","terrifier 2","terrifier_2"]
     },
     {
       "type": "movie",
       "id": "Terrifier 3",
       "dir": "terrifier3",
-      "aliases": ["terrifier 3","terrifier_3"]
+      "aliases": ["terrifier3","terrifier 3","terrifier_3"]
     },
 
 {
