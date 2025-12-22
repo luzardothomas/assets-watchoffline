@@ -215,49 +215,49 @@
 				"type": "movie",
 				"id": "Dragon Ball - Pelicula 10",
 				"dir": "dbz_peli_10",
-				"aliases": ["dragon ball pelicula 10", "db pelicula 10", "pelicula dragon ball 10", "dbz_peli_10"]
+				"aliases": ["dragon ball pelicula 10", "db pelicula 10", "pelicula dragon ball 10", "dbz_peli_10","el regreso del guerrero legendario"]
 			},
 			{
 				"type": "movie",
 				"id": "Dragon Ball - Pelicula 11",
 				"dir": "dbz_peli_11",
-				"aliases": ["dragon ball pelicula 11", "db pelicula 11", "pelicula dragon ball 11", "el regreso del guerrero legendario", "dbz_peli_11"]
+				"aliases": ["dragon ball pelicula 11", "db pelicula 11", "pelicula dragon ball 11", "el combate final", "dbz_peli_11"]
 			},
 			{
 				"type": "movie",
 				"id": "Dragon Ball - Pelicula 12",
 				"dir": "dbz_peli_12",
-				"aliases": ["dragon ball pelicula 12", "db pelicula 12", "pelicula dragon ball 12", "el combate final", "dbz_peli_12"]
+				"aliases": ["dragon ball pelicula 12", "db pelicula 12", "pelicula dragon ball 12", "la fusion de goku y vegeta", "dbz_peli_12"]
 			},
 			{
 				"type": "movie",
 				"id": "Dragon Ball - Pelicula 13",
 				"dir": "dbz_peli_13",
-				"aliases": ["dragon ball pelicula 13", "db pelicula 13", "pelicula dragon ball 13", "la fusion de goku y vegeta", "dbz_peli_13"]
+				"aliases": ["dragon ball pelicula 13", "db pelicula 13", "pelicula dragon ball 13", "el ataque del dragon", "dbz_peli_13"]
 			},
 	{
 		"type": "movie",
 		"id": "Dragon Ball - Pelicula 14",
 		"dir": "dbz_peli_14",
-		"aliases": ["dragon ball pelicula 14", "db pelicula 14", "pelicula dragon ball 14", "el ataque del dragon", "dbz_peli_14"]
+		"aliases": ["dragon ball pelicula 14", "db pelicula 14", "pelicula dragon ball 14", "la batalla de los dioses", "dbz_peli_14"]
 	},
 	{
 		"type": "movie",
 		"id": "Dragon Ball - Pelicula 15",
 		"dir": "dbz_peli_15",
-		"aliases": ["dragon ball pelicula 15", "db pelicula 15", "pelicula dragon ball 15", "la batalla de los dioses", "dbz_peli_15"]
+		"aliases": ["dragon ball pelicula 15", "db pelicula 15", "pelicula dragon ball 15", "la resurreccion de freezer", "dbz_peli_15"]
 	},
 	{
 		"type": "movie",
 		"id": "Dragon Ball - Pelicula 16",
 		"dir": "dbz_peli_16",
-		"aliases": ["dragon ball pelicula 16", "db pelicula 16", "pelicula dragon ball 16", "la resurreccion de freezer", "dbz_peli_16"]
+		"aliases": ["dragon ball pelicula 16", "db pelicula 16", "pelicula dragon ball 16", "dragon ball super broly", "dbz_peli_16"]
 	},
 	{
 		"type": "movie",
 		"id": "Dragon Ball - Pelicula 17",
 		"dir": "dbz_peli_17",
-		"aliases": ["dragon ball pelicula 17", "db pelicula 17", "pelicula dragon ball 17", "broly", "dbz_peli_17"]
+		"aliases": ["dragon ball pelicula 17", "db pelicula 17", "pelicula dragon ball 17", "super hero", "dbz_peli_17","dragon ball super hero"]
 	},
 
     {
