@@ -491,61 +491,61 @@
       "type": "movie",
       "id": "X-Men: Días del futuro pasado",
       "dir": "xmen_2",
-      "aliases": ["dias del futuro pasado", "días del futuro pasado", "future past", "xmen 2"]
+      "aliases": ["dias del futuro pasado", "días del futuro pasado", "future past"]
     },
     {
       "type": "movie",
       "id": "X-Men: Origen",
       "dir": "xmen_3",
-      "aliases": ["x-men origen", "xmen origen", "wolverine origen", "xmen 3"]
+      "aliases": ["x-men origen", "xmen origen", "wolverine origen"]
     },
     {
       "type": "movie",
       "id": "X-Men: Apocalipsis",
       "dir": "xmen_4",
-      "aliases": ["x-men apocalipsis", "xmen apocalipsis", "apocalipsis", "xmen 4"]
+      "aliases": ["x-men apocalipsis", "xmen apocalipsis", "apocalipsis"]
     },
     {
       "type": "movie",
       "id": "X-Men: Dark Phoenix",
       "dir": "xmen_5",
-      "aliases": ["dark phoenix", "dark pheonix", "xmen dark phoenix", "xmen 5"]
+      "aliases": ["dark phoenix", "dark pheonix", "xmen dark phoenix"]
     },
     {
       "type": "movie",
-      "id": "X-Men (1)",
+      "id": "X-Men 1",
       "dir": "xmen_6",
-      "aliases": ["x-men 1", "xmen 1 original", "xmen-1", "xmen 6"]
+      "aliases": ["x-men 1", "xmen 1 original", "xmen-1"]
     },
     {
       "type": "movie",
       "id": "X-Men 2",
       "dir": "xmen_7",
-      "aliases": ["x-men 2", "xmen 2", "xmen-2", "xmen 7"]
+      "aliases": ["x-men 2", "xmen 2", "xmen-2"]
     },
     {
       "type": "movie",
-      "id": "xmen_8",
-      "dir": "X-MEN",
-      "aliases": ["x-men 3", "xmen 3", "xmen-3", "xmen 8"]
+      "id": "X-Men 3",
+      "dir": xmen_8",
+      "aliases": ["x-men 3", "xmen 3", "xmen-3"]
     },
     {
       "type": "movie",
       "id": "The Wolverine",
       "dir": "xmen_9",
-      "aliases": ["the wolverine", "wolverine", "xmen 9"]
+      "aliases": ["the wolverine", "wolverine"]
     },
     {
       "type": "movie",
       "id": "The New Mutants",
       "dir": "xmen_10",
-      "aliases": ["the new mutants", "new mutants", "xmen 10"]
+      "aliases": ["the new mutants", "new mutants"]
     },
     {
       "type": "movie",
       "id": "Logan",
       "dir": "xmen_11",
-      "aliases": ["logan", "logan wolverine", "xmen 11"]
+      "aliases": ["logan", "logan wolverine"]
     }
   ]
 }
