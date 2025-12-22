@@ -523,12 +523,12 @@
       "dir": "xmen_7",
       "aliases": ["x-men 2", "xmen 2", "xmen-2"]
     },
-    {
-      "type": "movie",
-      "id": "X-Men 3",
-      "dir": "xmen_8",
-      "aliases": ["x-men 3", "xmen 3", "xmen-3"]
-    },
+		{
+			"type": "movie",
+			"id": "X-Men 3",
+			"dir": "xmen_8",
+			"aliases": ["x-men 3", "xmen 3", "xmen-3"]
+		},
     {
       "type": "movie",
       "id": "The Wolverine",
